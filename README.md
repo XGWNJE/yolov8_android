@@ -1,13 +1,3 @@
-# ncnn-yolov8 目标检测与分割演示
-
-本项目基于 [FeiGeChuanShu/ncnn-android-yolov8](https://github.com/FeiGeChuanShu/ncnn-android-yolov8) 开源项目进行二次开发和修改。
-
-## 原项目声明
-
-原项目地址：[https://github.com/FeiGeChuanShu/ncnn-android-yolov8](https://github.com/FeiGeChuanShu/ncnn-android-yolov8)
-
-原作者：[@FeiGeChuanShu](https://github.com/FeiGeChuanShu)
-
 ## 项目介绍
 
 本项目是基于NCNN框架的YOLOv8目标检测与分割演示，包含：
@@ -31,11 +21,7 @@
 - `ncnn-yolov8s-seg`: YOLOv8分割模型实现
 - `ncnn-yolov8s-obb`: YOLOv8有向边界框检测实现
 
-## 截图展示
 
-![Android应用截图](./ncnn-android-yolov8/screenshot.png)
-![分割效果](yolov8s-seg.jpg)
-![有向边界框检测](yolov8s-obb.jpg)
 
 ## 如何使用
 
@@ -60,3 +46,8 @@
 
 本项目遵循原项目的License。
 
+## 原项目声明
+
+原项目地址：[https://github.com/FeiGeChuanShu/ncnn-android-yolov8](https://github.com/FeiGeChuanShu/ncnn-android-yolov8)
+
+原作者：[@FeiGeChuanShu](https://github.com/FeiGeChuanShu)
