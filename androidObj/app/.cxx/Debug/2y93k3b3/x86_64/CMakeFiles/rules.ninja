@@ -42,7 +42,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /Users/md/android-dev/sdk/cmake/3.22.1/bin/cmake --regenerate-during-build -S/Users/md/ncnn-android-yolov8/ncnn-android-yolov8/app/src/main/jni -B/Users/md/ncnn-android-yolov8/ncnn-android-yolov8/app/.cxx/Debug/2y93k3b3/x86_64
+  command = /Users/md/android-dev/sdk/cmake/3.22.1/bin/cmake --regenerate-during-build -S/Users/md/YOLOv8/androidObj/app/src/main/jni -B/Users/md/YOLOv8/androidObj/app/.cxx/Debug/2y93k3b3/x86_64
   description = Re-running CMake...
   generator = 1
 

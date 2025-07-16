@@ -1,4 +1,4 @@
-# Install script for directory: /Users/md/ncnn-android-yolov8/ncnn-android-yolov8/app/src/main/jni
+# Install script for directory: /Users/md/YOLOv8/androidObj/app/src/main/jni
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/md/ncnn-android-yolov8/ncnn-android-yolov8/app/.cxx/Debug/2y93k3b3/arm64-v8a/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/md/YOLOv8/androidObj/app/.cxx/Debug/2y93k3b3/arm64-v8a/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

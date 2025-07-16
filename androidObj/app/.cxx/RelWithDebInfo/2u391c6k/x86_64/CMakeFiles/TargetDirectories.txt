@@ -1,3 +1,0 @@
-/Users/md/ncnn-android-yolov8/ncnn-android-yolov8/app/.cxx/RelWithDebInfo/2u391c6k/x86_64/CMakeFiles/yolov8ncnn.dir
-/Users/md/ncnn-android-yolov8/ncnn-android-yolov8/app/.cxx/RelWithDebInfo/2u391c6k/x86_64/CMakeFiles/edit_cache.dir
-/Users/md/ncnn-android-yolov8/ncnn-android-yolov8/app/.cxx/RelWithDebInfo/2u391c6k/x86_64/CMakeFiles/rebuild_cache.dir

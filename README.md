@@ -33,8 +33,16 @@
 
 ### 编译与运行
 1. 克隆本仓库
-2. 按照ncnn-android-yolov8目录中的README说明配置环境
+2. 按照目录中的README说明配置环境
 3. 使用Android Studio打开项目并运行
+
+
+
+## 原项目声明
+
+原项目地址：[https://github.com/FeiGeChuanShu/ncnn-android-yolov8](https://github.com/FeiGeChuanShu/ncnn-android-yolov8)
+
+原作者：[@FeiGeChuanShu](https://github.com/FeiGeChuanShu)
 
 ## 参考资料
 - [ncnn-android-nanodet](https://github.com/nihui/ncnn-android-nanodet)
@@ -45,9 +53,3 @@
 ## License
 
 本项目遵循原项目的License。
-
-## 原项目声明
-
-原项目地址：[https://github.com/FeiGeChuanShu/ncnn-android-yolov8](https://github.com/FeiGeChuanShu/ncnn-android-yolov8)
-
-原作者：[@FeiGeChuanShu](https://github.com/FeiGeChuanShu)

@@ -1,1 +1,1 @@
-/Users/md/ncnn-android-yolov8/ncnn-android-yolov8/app/build/intermediates/cxx/Debug/2y93k3b3/obj/x86_64
+/Users/md/YOLOv8/androidObj/app/build/intermediates/cxx/Debug/2y93k3b3/obj/x86_64
