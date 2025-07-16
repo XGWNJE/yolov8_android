@@ -1,0 +1,1 @@
+/Users/md/ncnn-android-yolov8/ncnn-android-yolov8/app/build/intermediates/cxx/RelWithDebInfo/2u391c6k/obj/x86

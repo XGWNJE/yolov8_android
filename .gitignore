@@ -1,0 +1,47 @@
+# Android Studio
+.idea/
+*.iml
+.gradle/
+build/
+local.properties
+.DS_Store
+
+# 编译输出
+*.apk
+*.ap_ 
+*.dex
+*.class
+*.so
+*.jar
+*.a
+*.o
+*.obj
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+*.swn
+
+# ncnn/opencv 相关大文件
+androidObj/app/src/main/jni/opencv-mobile-4.5.1-android/sdk/native/3rdparty/libs/*/*.a
+androidObj/app/build/outputs/apk/*/*.apk
+
+# 其他常见忽略
+*.keystore
+*.jks
+*.cxx/
+.cxx/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Mac 系统文件
+.DS_Store
+
+# 备份文件
+*~
+*.bak
+
+# 你可以根据实际情况补充更多规则 

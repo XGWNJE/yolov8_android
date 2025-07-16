@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">生人勿近</string>
+    <string-array name="model_array">
+        <item>轻量模型(快)</item>
+        <item>精准模型(慢)</item>
+    </string-array>
+    <string-array name="cpugpu_array">
+        <item>CPU模式</item>
+        <item>GPU加速</item>
+    </string-array>
+    <string-array name="detect_mode_array">
+        <item>仅识别人类</item>
+        <item>识别人类和车辆</item>
+    </string-array>
+</resources>

@@ -1,0 +1,19 @@
+# ninja log v5
+0	510	1752604445339888448	CMakeFiles/yolov8ncnn.dir/yolov8ncnn.cpp.o	679aff349d3f7a7
+1	518	1752604445347518489	CMakeFiles/yolov8ncnn.dir/ndkcamera.cpp.o	dd90dc1c4e2a1f0d
+1	754	1752604445579181921	CMakeFiles/yolov8ncnn.dir/yolo.cpp.o	1f256afbd2590b6f
+754	938	1752604445722555617	/Users/md/ncnn-android-yolov8/ncnn-android-yolov8/app/build/intermediates/cxx/RelWithDebInfo/2u391c6k/obj/armeabi-v7a/libyolov8ncnn.so	9da6bcfdd46f544c
+1	310	1752616736242696091	CMakeFiles/yolov8ncnn.dir/ndkcamera.cpp.o	dd90dc1c4e2a1f0d
+1	315	1752616736247305790	CMakeFiles/yolov8ncnn.dir/yolov8ncnn.cpp.o	679aff349d3f7a7
+1	451	1752616736382308441	CMakeFiles/yolov8ncnn.dir/yolo.cpp.o	1f256afbd2590b6f
+451	621	1752616736518778478	/Users/md/ncnn-android-yolov8/ncnn-android-yolov8/app/build/intermediates/cxx/RelWithDebInfo/2u391c6k/obj/armeabi-v7a/libyolov8ncnn.so	9da6bcfdd46f544c
+0	5	0	clean	4e27aab1b3b9845a
+1	309	1752616908381508592	CMakeFiles/yolov8ncnn.dir/ndkcamera.cpp.o	dd90dc1c4e2a1f0d
+0	310	1752616908382912060	CMakeFiles/yolov8ncnn.dir/yolov8ncnn.cpp.o	679aff349d3f7a7
+0	452	1752616908523138277	CMakeFiles/yolov8ncnn.dir/yolo.cpp.o	1f256afbd2590b6f
+452	737	1752616908774702721	/Users/md/ncnn-android-yolov8/ncnn-android-yolov8/app/build/intermediates/cxx/RelWithDebInfo/2u391c6k/obj/armeabi-v7a/libyolov8ncnn.so	9da6bcfdd46f544c
+0	4	0	clean	4e27aab1b3b9845a
+1	338	1752617056431226381	CMakeFiles/yolov8ncnn.dir/ndkcamera.cpp.o	dd90dc1c4e2a1f0d
+0	340	1752617056433861858	CMakeFiles/yolov8ncnn.dir/yolov8ncnn.cpp.o	679aff349d3f7a7
+1	472	1752617056565196472	CMakeFiles/yolov8ncnn.dir/yolo.cpp.o	1f256afbd2590b6f
+472	622	1752617056687436982	/Users/md/ncnn-android-yolov8/ncnn-android-yolov8/app/build/intermediates/cxx/RelWithDebInfo/2u391c6k/obj/armeabi-v7a/libyolov8ncnn.so	9da6bcfdd46f544c

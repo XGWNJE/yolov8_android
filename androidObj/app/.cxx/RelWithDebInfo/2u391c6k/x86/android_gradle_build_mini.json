@@ -1,0 +1,43 @@
+{
+  "buildFiles": [
+    "/Users/md/ncnn-android-yolov8/ncnn-android-yolov8/app/src/main/jni/CMakeLists.txt",
+    "/Users/md/ncnn-android-yolov8/ncnn-android-yolov8/app/src/main/jni/ncnn-20220420-android-vulkan/x86/lib/cmake/OGLCompilerTargets-release.cmake",
+    "/Users/md/ncnn-android-yolov8/ncnn-android-yolov8/app/src/main/jni/ncnn-20220420-android-vulkan/x86/lib/cmake/OGLCompilerTargets.cmake",
+    "/Users/md/ncnn-android-yolov8/ncnn-android-yolov8/app/src/main/jni/ncnn-20220420-android-vulkan/x86/lib/cmake/OSDependentTargets-release.cmake",
+    "/Users/md/ncnn-android-yolov8/ncnn-android-yolov8/app/src/main/jni/ncnn-20220420-android-vulkan/x86/lib/cmake/OSDependentTargets.cmake",
+    "/Users/md/ncnn-android-yolov8/ncnn-android-yolov8/app/src/main/jni/ncnn-20220420-android-vulkan/x86/lib/cmake/SPIRVTargets-release.cmake",
+    "/Users/md/ncnn-android-yolov8/ncnn-android-yolov8/app/src/main/jni/ncnn-20220420-android-vulkan/x86/lib/cmake/SPIRVTargets.cmake",
+    "/Users/md/ncnn-android-yolov8/ncnn-android-yolov8/app/src/main/jni/ncnn-20220420-android-vulkan/x86/lib/cmake/glslangTargets-release.cmake",
+    "/Users/md/ncnn-android-yolov8/ncnn-android-yolov8/app/src/main/jni/ncnn-20220420-android-vulkan/x86/lib/cmake/glslangTargets.cmake",
+    "/Users/md/ncnn-android-yolov8/ncnn-android-yolov8/app/src/main/jni/ncnn-20220420-android-vulkan/x86/lib/cmake/ncnn/ncnn-release.cmake",
+    "/Users/md/ncnn-android-yolov8/ncnn-android-yolov8/app/src/main/jni/ncnn-20220420-android-vulkan/x86/lib/cmake/ncnn/ncnn.cmake",
+    "/Users/md/ncnn-android-yolov8/ncnn-android-yolov8/app/src/main/jni/ncnn-20220420-android-vulkan/x86/lib/cmake/ncnn/ncnnConfig.cmake",
+    "/Users/md/ncnn-android-yolov8/ncnn-android-yolov8/app/src/main/jni/opencv-mobile-4.5.1-android/sdk/native/jni/OpenCVConfig-version.cmake",
+    "/Users/md/ncnn-android-yolov8/ncnn-android-yolov8/app/src/main/jni/opencv-mobile-4.5.1-android/sdk/native/jni/OpenCVConfig.cmake",
+    "/Users/md/ncnn-android-yolov8/ncnn-android-yolov8/app/src/main/jni/opencv-mobile-4.5.1-android/sdk/native/jni/abi-x86/OpenCVConfig.cmake",
+    "/Users/md/ncnn-android-yolov8/ncnn-android-yolov8/app/src/main/jni/opencv-mobile-4.5.1-android/sdk/native/jni/abi-x86/OpenCVModules-release.cmake",
+    "/Users/md/ncnn-android-yolov8/ncnn-android-yolov8/app/src/main/jni/opencv-mobile-4.5.1-android/sdk/native/jni/abi-x86/OpenCVModules.cmake"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/md/android-dev/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/md/ncnn-android-yolov8/ncnn-android-yolov8/app/.cxx/RelWithDebInfo/2u391c6k/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/md/android-dev/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/md/ncnn-android-yolov8/ncnn-android-yolov8/app/.cxx/RelWithDebInfo/2u391c6k/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "yolov8ncnn::@6890427a1f51a3e7e1df": {
+      "artifactName": "yolov8ncnn",
+      "abi": "x86",
+      "output": "/Users/md/ncnn-android-yolov8/ncnn-android-yolov8/app/build/intermediates/cxx/RelWithDebInfo/2u391c6k/obj/x86/libyolov8ncnn.so",
+      "runtimeFiles": []
+    }
+  }
+}
